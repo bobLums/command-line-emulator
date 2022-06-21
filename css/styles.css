@@ -1,0 +1,19 @@
+body {
+    background-color: lightgrey;
+    font-family: Inconsolata, sans-serif;
+    font-size: 1.2em;
+}
+#content {
+    width: 750px;
+    margin-left: 100px;        
+}
+input {
+    width: 390px;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    font: inherit;
+}
+.listContents {
+    color: red;
+}
